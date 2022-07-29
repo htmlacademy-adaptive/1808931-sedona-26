@@ -1,7 +1,7 @@
 # Личный проект «Седона» 
 
 * Студент: [Roman Toporov](https://up.htmlacademy.ru/adaptive/26/user/1808931).
-* Наставник: [Кристина Новикова](https://htmlacademy.ru/profile/stina).
+* Наставник: `Неизвестно`.
 
 ---
 
